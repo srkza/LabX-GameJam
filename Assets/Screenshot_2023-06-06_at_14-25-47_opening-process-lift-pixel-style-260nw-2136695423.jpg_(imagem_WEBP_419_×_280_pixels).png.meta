@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: bd7561060999cd94795961afdaf1a34f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 300, y: 71, z: 40, w: 92}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_0"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af114d39584ffe24c81b4f45e83bf1b4
+      internalID: 3690261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9406689a9e6684ea63586ed0a7d006
+      internalID: 1948039111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_2"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d238ee1428e504995b28cd3d115d32
+      internalID: -556230420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_3"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c25791b6db803640bbeff1cf520e9d1
+      internalID: 1483597411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_4"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efd3d48c846e341a854c0eb7df56da
+      internalID: -1392493249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_5"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 195
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bb270d8900e5a40996d664f00cd843
+      internalID: -114355341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25937f3ae98a54644acf6bdae1953077
+      internalID: -1799270242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47224b5e6ede4fd46808d43624260c62
+      internalID: 2040527534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_8"
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 71
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbd16e39c85e5c40bd048736d1d61ac
+      internalID: 744726625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_9"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17865c14a38cc44a96ec6d0643e228c
+      internalID: 1529291730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_10"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 71
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0726c63e2ed3cb4fb4d56afea303134
+      internalID: 902754746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_11"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4d8d8e934ca94ca5bac04fdaf6126
+      internalID: -123994557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6fdbd54225434789c969e917ac22b
+      internalID: 166286811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_13"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f24cf1ac847746891b8eba84fa094
+      internalID: -386669632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_14"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c70feb6f7bd1be49a489c609c652b00
+      internalID: 166116391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_15"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ad64c9c83cd744b954bcebcb33c8b
+      internalID: 1062980714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_16"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e6899253bb1547832c1cf506282a0
+      internalID: -100734391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_17"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 67
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed27644780add4ca73018536fcca4c
+      internalID: -1185598218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075fc3ca136a9ee4cb2f8d94b9816990
+      internalID: 729425126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_19"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832abc9f23851641b7742f17511e9a8
+      internalID: 509652289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_20"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda6573b557ae34689d6e338564b25d
+      internalID: -1055436074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_21"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1d35409d734b489d4d3b3c6b01418
+      internalID: 885146013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_22"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95d1b20e394cb4bbcf6bbe834f3378
+      internalID: -239186377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_23"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726bd8dd0bb84b04b9e8b3b252871484
+      internalID: 1676631905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 89.5, y: -59.5}
+      - {x: 89.5, y: 38.5}
+      - {x: 168.5, y: 38.5}
+      - {x: 168.5, y: -60.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_0": 3690261
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_1": 1948039111
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_10": 902754746
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_11": -123994557
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_12": 166286811
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_13": -386669632
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_14": 166116391
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_15": 1062980714
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_16": -100734391
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_17": -1185598218
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_18": 729425126
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_19": 509652289
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_2": -556230420
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_20": -1055436074
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_21": 885146013
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_22": -239186377
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_23": 1676631905
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_3": 1483597411
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_4": -1392493249
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_5": -114355341
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_6": -1799270242
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_7": 2040527534
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_8": 744726625
+      "Screenshot_2023-06-06_at_14-25-47_opening-process-lift-pixel-style-260nw-2136695423.jpg_(imagem_WEBP_419_\xD7_280_pixels)_9": 1529291730
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,11 +4,10 @@ using static Platformer.Core.Simulation;
 
 namespace Platformer.Mechanics
 {
-    /// <summary>
-    /// Marks a trigger as a VictoryZone, usually used to end the current game level.
-    /// </summary>
+
     public class VictoryZone : MonoBehaviour
     {
+        public GameObject vitela;
         void OnTriggerEnter2D(Collider2D collider)
         {
             var p = collider.gameObject.GetComponent<PlayerController>();
@@ -16,6 +15,10 @@ namespace Platformer.Mechanics
             {
                 var ev = Schedule<PlayerEnteredVictoryZone>();
                 ev.victoryZone = this;
+                vitela.SetActive(true);
+
+
+
             }
         }
     }
