@@ -14,7 +14,8 @@ namespace Platformer.UI
         /// The main UI object which used for the menu.
         /// </summary>
         public MainUIController mainMenu;
-
+        public GameObject controles;
+        public GameObject opcoes;
         /// <summary>
         /// A list of canvas objects which are used during gameplay (when the main ui is turned off)
         /// </summary>
@@ -25,7 +26,7 @@ namespace Platformer.UI
         /// </summary>
         public GameController gameController;
 
-        bool showMainCanvas = false;
+        public bool showMainCanvas = false;
 
         void OnEnable()
         {
@@ -56,9 +57,19 @@ namespace Platformer.UI
             {
                 Time.timeScale = 1;
                 mainMenu.gameObject.SetActive(false);
+                controles.SetActive(false);
+                opcoes.SetActive(false);
                 foreach (var i in gamePlayCanvasii) i.gameObject.SetActive(true);
+
+
+
+
             }
             this.showMainCanvas = show;
+        }
+        public void Sair()
+        {
+            Application.Quit();
         }
 
         void Update()
